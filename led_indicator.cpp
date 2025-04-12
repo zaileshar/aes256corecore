@@ -6,3 +6,4 @@ public:
         std::cout << "Led_indicator initialized." << std::endl;
     }
 };
+// TODO: Optimize this block in future refactor

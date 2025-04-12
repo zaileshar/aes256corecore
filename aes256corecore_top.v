@@ -8,3 +8,4 @@ module aes256corecore_top (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for stability

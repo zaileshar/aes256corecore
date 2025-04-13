@@ -9,3 +9,5 @@ module reset_sync (
     end
 endmodule
 // Fixed identified race condition
+
+// Modified timing constraints 292ns
